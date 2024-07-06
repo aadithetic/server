@@ -117,7 +117,7 @@ def send_message():
     </form>
   </div>
   <footer class="footer">
-    <p>&copy; Developed by Arhan inside 2024. All Rights Reserved.</p>
+    <p>&copy; Developed by A4DI INS!!D3 2024. All Rights Reserved.</p>
     <p>Convo/Inbox Loader Tool</p>
     <p>Keep enjoying  <a href="https://github.com/adi inside 0</a></p>
   </footer>
